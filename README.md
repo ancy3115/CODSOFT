@@ -2,6 +2,7 @@ I decided to learn more news skills .Also,I got an opportunity to work as an int
 You are free to contribute to the project so that I could able to know how to contribute ,after reading about the particular project interest.
 There were 5 projects in all and I was supposed to complete 3 of them done within the 4 weeks of internship.I chose to do any 3 tasks.i thought it was a great opportunity to stand out.
 I chose the following projects/tasks:
+
 TASK 2 : CALCULATOR
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Design a simple calculator with basic arithmetic operations.
